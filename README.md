@@ -180,7 +180,7 @@ Contributions, ideas, and bug reports are welcome.
 
 ## 📄 License
 
-This project is open source. Add a `LICENSE` file (the MIT License is a popular choice) to define how others may use it.
+This project is open source.
 
 ## 👨‍💻 Author
 
